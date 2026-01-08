@@ -13,7 +13,7 @@ There are several things we require from **all developers** for the moment.
 
 # Quick Compilation Guide
 
-## Get the Code
+## TR88 ver. e39db5f
 
 ```
 git clone --recursive -j8 https://github.com/TelegramMessenger/Telegram-iOS.git
